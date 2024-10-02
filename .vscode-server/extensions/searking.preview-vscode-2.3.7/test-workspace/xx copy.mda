@@ -1,0 +1,40 @@
+# Your Custom Extension
+
+This is a markdown file.
+
+```text
+This is block file.
+```
+
+####sss
+
+一**二三**四
+
+一**vsc二=**四
+
+一**s二三 **四
+
+一**（二）三四**无
+
+一Love**\(is\)**bold
+
+* Without the backslash, this would be a bullet in an unordered list.
+
+一**\[二三四\]** 无
+
+一**\[二三四\]** 无
+
+<em>( dasd )</em>
+
+一<strong>二三</strong>四
+
+<script></script>
+
+<!-- <link rel="stylesheet" href="../preview-styles/index.css"  data-inline> -->
+
+<!-- <style>
+h1   {color: blue;}
+</style> -->
+
+<h1>This is a heading</h1>
+ 

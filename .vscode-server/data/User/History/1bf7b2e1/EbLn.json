@@ -1,0 +1,6 @@
+{
+    "remote.SSH.remotePlatform": {
+        "ssh-inst-1": "linux"
+    },
+    "files.autoSave": "afterDelay"
+}

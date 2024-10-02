@@ -1,0 +1,6 @@
+Listening on 127.0.0.1:43947
+[2024-10-02 11:48:09] info Disposed of connection to running server.
+looking for token 4d765b51-2418-4300-a89d-0417f7c2c7ae, got Some("4d765b51-2418-4300-a89d-0417f7c2c7ae")
+[2024-10-02 11:48:09] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/pid.txt for a running server...
+[2024-10-02 11:48:09] info Found running server (pid=3110)
+[2024-10-02 12:36:16] info Disposed of connection to running server.
